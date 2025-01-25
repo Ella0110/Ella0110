@@ -1,4 +1,4 @@
-## Hi, I'm Ella! <a href="https://github.com/Ella0110/"><img height="30" src="./img/blackcat.gif"></a> ![](https://komarev.com/ghpvc/?username=Ella0110&color=blue&style=flat-square)
+## 𝗛𝗶, 𝗜'𝗺 𝗘𝗹𝗹𝗮 <a href="https://github.com/Ella0110/"><img height="30" src="./img/blackcat.gif"></a> 
 
 <a href="https://github.com/Ella0110/">
   <img align="left" alt="Github" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -10,8 +10,7 @@
   <img align="left" alt="Gmail" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/blogger.svg" />
 </a>
 
-<br />
-<br />
+![](https://komarev.com/ghpvc/?username=Ella0110&color=blue&style=flat-square)
 
 𝑰 ❤️ 𝑩𝒂𝒄𝒌𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 & 𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑭𝒖𝒍𝒍-𝑺𝒕𝒂𝒄𝒌 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓
 
@@ -19,7 +18,7 @@
 
 📚 𝙇𝙞𝙛𝙚𝙡𝙤𝙣𝙜 𝙇𝙚𝙖𝙧𝙣𝙚𝙧 | 🐱 𝙆𝙞𝙩𝙩𝙚𝙣 𝙇𝙤𝙫𝙚𝙧 | 🚴 𝙍𝙞𝙙𝙚 𝙀𝙣𝙩𝙝𝙪𝙨𝙞𝙖𝙨𝙩 
 
-## Currently working on
+## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 [![Trillo](https://svg.bookmark.style/api?url=https://github.com/Ella0110/trillo&mode=light&style=horizontal)](https://github.com/Ella0110/trillo)
 [![TrilloBackEnd](https://svg.bookmark.style/api?url=https://github.com/Ella0110/TrilloBackend&mode=dark&style=horizontal)](https://github.com/Ella0110/TrilloBackend)
 
@@ -51,6 +50,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+
 <!--
 **Ella0110/Ella0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
