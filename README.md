@@ -3,6 +3,9 @@
 <a href="https://github.com/Ella0110/">
   <img align="left" alt="Github" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="mailto:ellawu010@gmail.com">
+  <img align="left" alt="Github" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 <a href="https://www.linkedin.com/in/ella-chunmeiwu/">
   <img align="left" alt="LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
 </a>
