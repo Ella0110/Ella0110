@@ -19,7 +19,7 @@
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 [![Trillo](https://svg.bookmark.style/api?url=https://github.com/Ella0110/trillo&mode=light&style=horizontal)](https://github.com/Ella0110/trillo)
-[![Natours](https://svg.bookmark.style/api?url=https://ella0110.github.io/natours&mode=light&style=horizontal)](https://ella0110.github.io/natours/)
+[![Natours](https://svg.bookmark.style/api?url=https://github.com/Ella0110/natours&mode=light&style=horizontal)](https://github.com/Ella0110/natours)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
