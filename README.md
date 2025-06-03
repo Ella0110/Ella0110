@@ -32,6 +32,7 @@
 
 ![Nginx](https://img.shields.io/badge/-Nginx-%232c3e50?style=flat-square&logo=nginx)
 ![Redis](https://img.shields.io/badge/-Redis-%23282C34?style=flat-square&logo=redis)
+![MongoDB](https://img.shields.io/badge/-MongoDB-%231572B6?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23007ACC?style=flat-square&logo=PostgreSQL&logoColor=ffffff)
 ![AmazonEC2](https://img.shields.io/badge/-AmazonEC2-%23000000?style=flat-square&logo=AmazonEC2)
 ![AmazonECS](https://img.shields.io/badge/-AmazonECS-%23000000?style=flat-square&logo=AmazonECS)
